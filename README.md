@@ -1,1 +1,1 @@
-# cripro-
+# cricpro-scoreboard
